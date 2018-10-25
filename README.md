@@ -1,2 +1,2 @@
 # JuegoBloques
-Juego de destruir bloques
+Juego de destruir bloques desarrollado en Unity
